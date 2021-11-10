@@ -1,5 +1,5 @@
 public class Cell {
-    private int number;
+    private final int number;
 
     public Cell(int number) {
         this.number = number;
